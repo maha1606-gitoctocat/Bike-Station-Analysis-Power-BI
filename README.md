@@ -5,6 +5,7 @@ This project focuses on analyzing a Bike Sharing System dataset using Power BI t
 
 The dashboard provides an interactive and data-driven approach to monitor system performance and support better decision-making for urban mobility.
 
+
 🎯 Objectives
 
 Monitor bike availability and station capacity
@@ -18,6 +19,7 @@ Compare city-wise (contract-wise) performance
 Track time-based trends in bike availability
 
 Support operational decisions like bike redistribution
+
 
 📊 Dashboard Features
 
@@ -35,6 +37,7 @@ Average Bikes per Day
 
 Bike Utilization %
 
+
 🔹 Visualizations Used
 
 📊 Bar Chart → Top stations by available bikes
@@ -48,6 +51,7 @@ Bike Utilization %
 📋 Table → Station-level detailed insights
 
 🎯 Gauge Chart → Utilization percentage
+
 
 Data Model
 
@@ -82,6 +86,7 @@ Dim_Bonus → Bonus feature
 
 👉 All relationships are One-to-Many (1:*) with single-direction filtering
 
+
 Key Insights
 
 🚲 The system operates with ~6K bikes across ~1K stations
@@ -98,6 +103,7 @@ Key Insights
 
 📅 Stable trends indicate consistent demand over time
 
+
 💡 Business Recommendations
 
 🔄 Implement bike redistribution strategies
@@ -109,6 +115,7 @@ Key Insights
 💳 Expand banking-enabled stations
 
 📊 Use real-time monitoring for better operations
+
 
 🛠️ Tools & Technologies
 

@@ -34,7 +34,7 @@
 
 ## Data Model
 ## The project follows a Star Schema:
--- Fact Table
+## Fact Table
 - Bike_Stations
 - Contains measures like:
 - Available Bikes

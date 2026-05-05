@@ -33,7 +33,7 @@
 - Gauge Chart → Utilization percentage
 
 ## Data Model
-## The project follows a Star Schema:
+The project follows a Star Schema:
 ## Fact Table
 - Bike_Stations
 - Contains measures like:
@@ -53,20 +53,20 @@
 ## All relationships are One-to-Many (1:*) with single-direction filtering
 
 ## Key Insights
-- The system operates with ~6K bikes across ~1K stations
-- 913 stations are active, indicating strong network coverage
-- Moderate utilization rate (~60–70%), suggesting optimization opportunities
-- Presence of empty and full stations indicates uneven bike distribution
+- The system operates with **~6K** bikes across **~1K** stations
+- **913** stations are active, indicating strong network coverage
+- Moderate utilization rate (**~60–70%**), suggesting optimization opportunities
+- Presence of **empty and full stations** indicates uneven bike distribution
 - Major cities (e.g., Lyon, Brussels) show higher demand and capacity
-- Majority of stations are non-banking, highlighting improvement scope
-- Stable trends indicate consistent demand over time
+- Majority of stations are **non-banking**, highlighting improvement scope
+- Stable trends indicate **consistent demand over time**
 
 ## Business Recommendations
-- Implement bike redistribution strategies
-- Increase bikes in high-demand stations
-- Optimize underutilized stations
-- Expand banking-enabled stations
-- Use real-time monitoring for better operations
+- Implement bike **redistribution** strategies
+- Increase bikes in **high-demand stations**
+- Optimize **underutilized** stations
+- Expand **banking-enabled** stations
+- Use **real-time monitoring** for better operations
 
 ## Tools & Technologies
 - Power BI
